@@ -1,0 +1,4 @@
+Sitemap: https://terry-artwork.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: terry-artwork.github.io
