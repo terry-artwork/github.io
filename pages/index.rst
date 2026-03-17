@@ -18,7 +18,8 @@ If you would like to purchase any of my paintings, then please go to the `Contac
 
 Have a good day, Terry.
 
-.. raw:: html 
+.. raw:: html
+
     <center>
       This is my currently featured artwork. Click image for enlargement.
     </center>
@@ -33,7 +34,8 @@ Have a good day, Terry.
 
 .. When changing the featured picture on the homepage edit the caption. i.e. No.0. The Tree. Acrylic-on-canvas. 50cm x 40cm. $60
 
-.. raw:: html 
+.. raw:: html
+
     <center>
       No.0. The Tree. Acrylic-on-canvas. 50cm x 40cm. $60
     </center>
