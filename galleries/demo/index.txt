@@ -1,0 +1,11 @@
+---
+title: Terry's Artwork
+date: 2026-01-01 00:00:00 UTC+00:00
+tags: 
+link: 
+description: Gallery demo page for Terry.
+type: text
+hidetitle: True
+---
+
+Artwork for sale. Click on any image for enlargement and details...
