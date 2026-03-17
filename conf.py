@@ -37,7 +37,7 @@ SITE_URL = "https://terry-artwork.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://terry-artwork.github.io/"
-BLOG_EMAIL = "trrycbrn@gmail.com"
+BLOG_EMAIL = "terry@example.com"
 BLOG_DESCRIPTION = "Terry's Artwork website"  # (translatable)
 
 # Nikola is multilingual!
