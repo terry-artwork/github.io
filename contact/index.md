@@ -22,7 +22,8 @@ Shipping cost by courier is: $100
       }
 </style>
 
-<form action="https://formspree.io/f/maylvdvn" method="POST">
+<!-- https://formspree.io/f/mbdzqbvo -->
+<form action="https://formspree.io/f/mbdzqbvo" method="POST">
 
     <div>First Name (required)</div>
     <input type="text" name="First Name" required />
