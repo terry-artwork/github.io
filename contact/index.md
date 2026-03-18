@@ -36,6 +36,11 @@ Shipping cost by courier is: $100
     <div>E-Mail (required)</div>
     <input type="email" name="E-Mail" required />
     <br/>
+ 
+    <div>City and Country (required)</div>
+    <input type="text" name="Location" required />
+    <br/> 
+
     
     <!-- If rows and cols are not used then use CSS width and height
         rows="4" cols="100"-->
