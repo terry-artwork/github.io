@@ -27,8 +27,8 @@ Have a good day, Terry.
 .. When changing the featured picture on the homepage edit the filename. i.e. /images/tree_painting.jpg and "the tree"
 
 
-.. thumbnail:: /images/tree_painting.jpg
-    :alt: the tree
+.. thumbnail:: /images/two-horses.jpg
+    :alt: two horses
     :align: center
     :width: 200 px
 
@@ -37,5 +37,5 @@ Have a good day, Terry.
 .. raw:: html
 
     <center>
-      No.0. The Tree. Acrylic-on-canvas. 50cm x 40cm. $60
+      No.0. Two Horses. Oil-on-canvas in glass wooden frame. 405mm x 306mm. Price: Reasonable offer.
     </center>
