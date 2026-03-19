@@ -12,5 +12,3 @@ hidetitle: false
 
 I'm Terry. I live in the countryside of the Bay of Plenty region of Aotearoa/New Zealand.
 
-I use acrylic paints on canvas.
-
