@@ -12,7 +12,7 @@ hidetitle: false
 
 Please state which of my artworks you would like to purchase.
 
-**Purchase Order**
+**Purchase Request**
 <!-- Add CSS for textarea to increase width -->
 <style>
     textarea {
